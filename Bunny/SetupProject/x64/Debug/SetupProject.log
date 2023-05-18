@@ -1,0 +1,4 @@
+﻿  SetupProject.cpp
+D:\main\School\DLSU Term 9 (3)\GDGRAP1\Projects\Meeting 2\BufferObject\SetupProject\SetupProject.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\main\School\DLSU Term 9 (3)\GDGRAP1\Projects\Meeting 2\BufferObject\SetupProject\SetupProject.cpp(120,9): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  SetupProject.vcxproj -> D:\main\School\DLSU Term 9 (3)\GDGRAP1\Projects\Meeting 2\BufferObject\x64\Debug\SetupProject.exe
