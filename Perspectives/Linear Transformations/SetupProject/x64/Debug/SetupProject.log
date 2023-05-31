@@ -1,0 +1,6 @@
+﻿  SetupProject.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\main\School\DLSU Term 9 (3)\GDGRAP1\Projects\Meeting 3\Perspectives\Linear Transformations\Dependencies\include\glad\glad.h(647,1): message : see previous definition of 'APIENTRY'
+D:\main\School\DLSU Term 9 (3)\GDGRAP1\Projects\Meeting 3\Perspectives\Linear Transformations\SetupProject\SetupProject.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\main\School\DLSU Term 9 (3)\GDGRAP1\Projects\Meeting 3\Perspectives\Linear Transformations\SetupProject\SetupProject.cpp(404,9): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  SetupProject.vcxproj -> D:\main\School\DLSU Term 9 (3)\GDGRAP1\Projects\Meeting 3\Perspectives\Linear Transformations\x64\Debug\SetupProject.exe
