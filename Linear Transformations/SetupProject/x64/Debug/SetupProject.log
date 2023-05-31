@@ -1,0 +1,6 @@
+﻿  SetupProject.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Student\Documents\GDGRAP1\Meeting 3\from Shaders\Dependencies\include\glad\glad.h(647): message : see previous definition of 'APIENTRY'
+C:\Users\Student\Documents\GDGRAP1\Meeting 3\from Shaders\SetupProject\SetupProject.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Student\Documents\GDGRAP1\Meeting 3\from Shaders\SetupProject\SetupProject.cpp(286,9): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  SetupProject.vcxproj -> C:\Users\Student\Documents\GDGRAP1\Meeting 3\from Shaders\x64\Debug\SetupProject.exe
